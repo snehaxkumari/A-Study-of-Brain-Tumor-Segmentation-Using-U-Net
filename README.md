@@ -1,1 +1,1 @@
-This project presents A Study of Brain Tumor Segmentation Using U-Net based on deep learning techniques on magnetic resonance imaging (MRI) data. Leveraging the U-Net architecture, the model was trained and evaluated on the BraTS dataset, a widely recognized benchmark in neuro-oncology. The workflow includes comprehensive data preprocessing, augmentation, and the application of advanced loss functions to address challenges such as class imbalance and complex tumor boundaries.
+# Brain-MRI-Segmentation
